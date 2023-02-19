@@ -1,0 +1,12 @@
+purple
+magenta
+turquoise2
+blue_violet
+orange3
+dark_red
+yellow4
+green
+deep_pink3
+dark_goldenrod
+aquamarine1
+chartreuse1
